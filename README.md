@@ -35,10 +35,8 @@ This project includes several data visualizations such as:
 Technologies and libraries used in this project:
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
-- Plotly
 
 ## Key Insights
 Some insights discovered from the analysis:
